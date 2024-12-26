@@ -50,29 +50,25 @@ Ensure you have the following installed:
 2. Run the Project in any IDE
 
 ## Project Reports
-#### 1. Webform Automation for Digital Unite
+### 1. Webform Automation for Digital Unite
 - Automated field inputs.
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
-  
 #### Report
 ![task01](https://github.com/user-attachments/assets/e5cfee3f-b040-4f8b-80da-66ce0b8d2b5e)
 
-#### 2. Guest Registration Automation for WP Everest
+### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted successful registration upon submission.
-  
 #### Report 
 ![task02](https://github.com/user-attachments/assets/48cf4447-ab09-4e03-8c92-1b769a444333)
 
-#### 3. Web Scraping for DSEBD Stock Prices
+### 3. Web Scraping for DSEBD Stock Prices
 - Scraped table data from the provided webpage using Selenium.
 - Printed all table cell values in the console.
-- Stored the scraped data into a text file for reference.
-  
+- Stored the scraped data into a text file for reference. 
 #### Report
 ![task03](https://github.com/user-attachments/assets/519f12f3-d2a3-44fb-964c-99db1f46985c)
-
 #### Text File
 ![image](https://github.com/user-attachments/assets/32fd153a-9030-42b1-9d88-41fb6305e1c6)
 
