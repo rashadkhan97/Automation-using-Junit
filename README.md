@@ -42,10 +42,10 @@ Ensure you have the following installed:
      - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
     ![image](https://github.com/user-attachments/assets/09e6ac24-be1c-4f25-b429-95190e992269)
 
-## Getting Started
+## How To Run This?
 1. Clone the repository:
    ```bash
    git clone https://github.com/rashadkhan97/Automation-using-Junit.git
 
-2. Run Project in any IDE
+2. Run the Project in any IDE
 
