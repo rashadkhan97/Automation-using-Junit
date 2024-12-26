@@ -31,7 +31,7 @@ public class Task01_DigitalUnitePracticeForm {
         //first name, email address, phone number
         String ranFirstName = faker.name().firstName();
         //String ranLastName = faker.name().lastName();
-        String emailAddress = ranFirstName+"10@gmail.com";
+        String emailAddress = ranFirstName.toLowerCase()+"10@gmail.com";
         String phoneNumber = Utils.generateRandomPhoneNumber();
 
         driver.get("https://www.digitalunite.com/practice-webform-learners");
