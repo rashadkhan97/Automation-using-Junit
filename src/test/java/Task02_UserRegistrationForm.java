@@ -30,7 +30,7 @@ public class Task02_UserRegistrationForm {
         //Random first name, last name, email address, password &phone number (from-->utils)
         String ranFirstName = faker.name().firstName();
         String ranLastName = faker.name().lastName();
-        String emailAddress = ranFirstName+"10@gmail.com";
+        String emailAddress = ranFirstName.toLowerCase()+"10@gmail.com";
         String phoneNumber = Utils.generateRandomPhoneNumber();
         String password = Utils.generateRandomPassword();
 
