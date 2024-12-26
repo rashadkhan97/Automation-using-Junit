@@ -49,13 +49,13 @@ Ensure you have the following installed:
      - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
     ![image](https://github.com/user-attachments/assets/09e6ac24-be1c-4f25-b429-95190e992269)
 4. Verification
-- For the web forms:
-   - Check the assertion logs for success or failure messages.
-- For the table scraping:
-   - Verify the console output and the generated text file (e.g., store.txt).
+   - For the web forms:
+      - Check the assertion logs for success or failure messages.
+   - For the table scraping:
+      - Verify the console output and the generated text file (e.g., store.txt).
 5. Output Files
-- Logs: Test results and execution details are logged in the console.
-- Text File: Scraped table data is stored in store.txt.
+   - Logs: Test results and execution details are logged in the console.
+   - Text File: Scraped table data is stored in store.txt.
 
 ## Project Reports
 ### 1. Webform Automation for Digital Unite
