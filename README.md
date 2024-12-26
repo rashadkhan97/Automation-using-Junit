@@ -43,11 +43,19 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/rashadkhan97/Automation-using-Junit.git
 2. Open the Project in any IDE
-3. Add Dependency in the build.gradle file
+3. Add Dependency in the build.gradle file and reload gradle from the top right
    - Dependencies Add:
      - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.27.0)
      - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
     ![image](https://github.com/user-attachments/assets/09e6ac24-be1c-4f25-b429-95190e992269)
+4. Verification
+- For the web forms:
+   - Check the assertion logs for success or failure messages.
+- For the table scraping:
+   - Verify the console output and the generated text file (e.g., store.txt).
+5. Output Files
+- Logs: Test results and execution details are logged in the console.
+- Text File: Scraped table data is stored in store.txt.
 
 ## Project Reports
 ### 1. Webform Automation for Digital Unite
