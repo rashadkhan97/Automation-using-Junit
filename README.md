@@ -50,13 +50,13 @@ Ensure you have the following installed:
 2. Run the Project in any IDE
 
 ## Project Reports
-### Webform Automation for Digital Unite
+#### 1. Webform Automation for Digital Unite
 ![task01](https://github.com/user-attachments/assets/e5cfee3f-b040-4f8b-80da-66ce0b8d2b5e)
 
-### Guest Registration Automation for WP Everest
+#### 2. Guest Registration Automation for WP Everest
 ![task02](https://github.com/user-attachments/assets/48cf4447-ab09-4e03-8c92-1b769a444333)
 
-### Web Scraping for DSEBD Stock Prices
+#### 3. Web Scraping for DSEBD Stock Prices
 ![task03](https://github.com/user-attachments/assets/519f12f3-d2a3-44fb-964c-99db1f46985c)
 
 
