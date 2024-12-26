@@ -45,5 +45,7 @@ Ensure you have the following installed:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/automated-testing-selenium.git
+   git clone https://github.com/rashadkhan97/Automation-using-Junit.git
+
+2. Run Project in any IDE
 
