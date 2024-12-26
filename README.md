@@ -30,19 +30,17 @@ Automates stock market data extraction:
 - **Programming Language**: Java
 - **Framework**: JUnit
 - **Browser Automation**: Selenium WebDriver
-- **Dependencies Add**:
-     - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.27.0)
-     - [Java Faker Link](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
-    ![image](https://github.com/user-attachments/assets/09e6ac24-be1c-4f25-b429-95190e992269)
-
 - **IDE**: IntelliJ IDEA or Eclipse
 
 ## Prerequisites
 Ensure you have the following installed:
 - Java Development Kit (JDK) 8 or higher.
-- Maven.
 - A Selenium-compatible web browser (e.g., Chrome, Firefox).
 - ChromeDriver or GeckoDriver (match your browser version).
+- Dependencies Add
+     - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.27.0)
+     - [Java Faker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
+    ![image](https://github.com/user-attachments/assets/09e6ac24-be1c-4f25-b429-95190e992269)
 
 ## Getting Started
 1. Clone the repository:
