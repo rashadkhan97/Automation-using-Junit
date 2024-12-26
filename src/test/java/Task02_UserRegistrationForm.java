@@ -58,7 +58,7 @@ public class Task02_UserRegistrationForm {
         //Country element identify and dropdown to select bangladesh
         textbox.get(11).click();
         Actions actions = new Actions(driver);
-        for (int i=1; i<19; i++) {
+        for (int i=0; i<18; i++) {
             actions.sendKeys(Keys.ARROW_DOWN).perform();
         }
         actions.sendKeys(Keys.ENTER).perform();
